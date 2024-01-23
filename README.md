@@ -1,5 +1,12 @@
 ### Olá 👋
 
+
+<div class="informacoes">
+  <p class="pessoal">Analista de Desenvolvimento de Sistemas PLENO na PH3A</p>
+  <P class="local">São Paulo - BR</P>
+  <p class="telefone"><a href="https://wa.me/11912220082" target="_blank">+55 11 91222-0082</a></p>
+  <p class="email"><a href="mailto:rafael_ska@live.com">rafael_ska@live.com</a></p>
+</div>
 <!--
 **RafaelSka/RafaelSka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
