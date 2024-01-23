@@ -1,15 +1,4 @@
-### Olá 👋
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="css/cabecalho.css">
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="css/conteudo.css">
-    <link rel="stylesheet" href="css/idiomas.css">
-    <link rel="stylesheet" href="css/portfolio.css">
-    <link rel="stylesheet" href="css/profissional.css">
-    <link rel="stylesheet" href="css/habilidades.css">
-
-<header class="header">
+## Olá 👋
 
  <div class="informacoes">
   <p class="pessoal">Analista de Desenvolvimento de Sistemas PLENO na PH3A</p>
@@ -17,7 +6,48 @@
   <p class="telefone"><a href="https://wa.me/11912220082" target="_blank">+55 11 91222-0082</a></p>
   <p class="email"><a href="mailto:rafael_ska@live.com">rafael_ska@live.com</a></p>
  </div>
-</header>
+ <ul class="habilidades">
+                            <li>
+                                <img src="icones/html.png" alt="" title="HTML">
+                            </li>
+                            <li>
+                                <img src="icones/css.png" alt="" title="CSS">
+                            </li>
+                            <li>
+                                <img src="icones/js.png" alt="" title="JavaScript">
+                            </li>
+                            <li>
+                                <img src="icones/nodejs.png" alt="" title="NodeJS">
+                            </li>
+                            <li>
+                                <img src="icones/react.png" alt="" title="React">
+                            </li>
+                            <li>
+                                <img src="icones/zabbix.png" alt="" title="Zabbix">
+                            </li>
+                            <li>
+                                <img src="icones/vscode.png" alt="" title="VSCode">
+                            </li>
+                            <li>
+                                <img src="icones/python.png" alt="" title="Python">
+                            </li>
+                            <li>
+                                <img src="icones/grafana.png" alt="" title="Grafana">
+                            </li>
+                            <li>
+                                <img src="icones/github.png" alt="" title="Github">
+                            </li>
+                            <li>
+                                <img src="icones/arduino.png" alt="" title="Arduino">
+                            </li>
+                            <li>
+                                <img src="icones/azure.png" alt="" title="Azure">
+                            </li>
+                            <li>
+                                <img src="icones/aws.png" alt="" title="AWS">
+                            </li>
+                        </ul>
+
 
 <!--
 **RafaelSka/RafaelSka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
