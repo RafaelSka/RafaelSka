@@ -7,7 +7,7 @@
   <p class="email"><a href="mailto:rafael_ska@live.com">rafael_ska@live.com</a></p>
  </div>
  <div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="icones/html.png" alt="" title="HTML">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="icones/html.png" alt="" title="HTML">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="icones/css.png" alt="" title="CSS">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="icones/js.png" alt="" title="JavaScript">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="icones/nodejs.png" alt="" title="NodeJS">
