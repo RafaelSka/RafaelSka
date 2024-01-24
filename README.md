@@ -1,9 +1,13 @@
-## Olá 👋
+## 👋 Olá,
 
 ### 🎖 Analista de Desenvolvimento de Sistemas PLENO II na PH3A
 🎯 São Paulo - BR
   <p class="telefone"><a href="https://wa.me/11912220082" target="_blank">+55 11 91222-0082</a></p>
   <p class="email"><a href="mailto:rafael_ska@live.com">rafael_ska@live.com</a></p>
+
+  ##
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelska&show_icons=true&theme=merko)
 
  <div>
   <img align="center" alt="Rafa-Js" height="120px" src="icones/html.png" alt="" title="HTML">
